@@ -1,9 +1,10 @@
-Title: Welcome to My Site
+Title: Welcome 
 URL:
 save_as: index.html
 
 
-###Thank you for visiting. Welcome!
+##Thank you for visiting. Welcome!
+
 
 ###Beautiful Walden
 
